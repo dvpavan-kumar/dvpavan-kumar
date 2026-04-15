@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Pavan.<br>A passionate software engineer from India.<br>Software Engineer at **Tech Mahindra**.<br>🌱 I’m currently learning **DSA,Next.js & Typescript**.
+Hi 👋, I'm Pavan.<br>A passionate software engineer from India.🌱 I’m currently learning **DSA,Next.js & Typescript**.
 
 
 ## 🌐 Socials:
